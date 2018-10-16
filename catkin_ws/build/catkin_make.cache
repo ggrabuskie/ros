@@ -1,0 +1,2 @@
+beginner_tutorials:rftest
+-DCATKIN_DEVEL_PREFIX=/home/ggrabuskie/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ggrabuskie/catkin_ws/install -G Unix Makefiles

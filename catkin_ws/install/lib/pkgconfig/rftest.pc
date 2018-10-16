@@ -1,0 +1,8 @@
+prefix=/home/ggrabuskie/catkin_ws/install
+
+Name: rftest
+Description: Description of rftest
+Version: 0.0.0
+Cflags: -I/home/ggrabuskie/catkin_ws/install/include
+Libs: -L/home/ggrabuskie/catkin_ws/install/lib 
+Requires: message_runtime

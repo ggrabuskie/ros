@@ -1,0 +1,9 @@
+int32 left
+int32 right
+int32 j1
+int32 j2
+int32 j3
+int32 j4
+int32 j51
+int32 j52
+int32 mode

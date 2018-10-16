@@ -1,0 +1,9 @@
+int8 left
+int8 right
+int8 j1
+int8 j2
+int8 j3
+int8 j4
+int8 j51
+int8 j52
+int8 mode
